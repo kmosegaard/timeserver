@@ -1,0 +1,9 @@
+{
+	"name": "rfc868-d",
+	"authors": [
+		"Kristian Mosegaard"
+	],
+	"description": "RFC868 in D",
+	"copyright": "Copyright © 2017, Kristian Mosegaard",
+	"license": "MIT"
+}
